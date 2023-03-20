@@ -24,11 +24,11 @@ jobs:
     - name: Instalar dependencias
       run: yarn install
 
-    - name: Construir y probar
-      run: yarn build
+    - name: Construye Storybook
+      run: yarn build-storybook
 
     - name: Desplegar en GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GH_PAGES_TOKEN }}
-        publish_dir: ./build
+        publish_dir: ./storybook-static
