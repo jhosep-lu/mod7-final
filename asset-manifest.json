@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.6a573c36.css",
-    "main.js": "/static/js/main.18522d03.js",
-    "static/js/787.b1610551.chunk.js": "/static/js/787.b1610551.chunk.js",
-    "static/media/percolate.svg?5w3um4": "/static/media/percolate.1527b5e7e2f78187d4a8.svg",
-    "static/media/percolate.eot": "/static/media/percolate.944f04e66433b0904029.eot",
-    "static/media/percolate.woff?5w3um4": "/static/media/percolate.19e89b87c4eaf9bc5a6a.woff",
-    "static/media/percolate.ttf?5w3um4": "/static/media/percolate.fae78e19b0826fafb9be.ttf",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.6a573c36.css.map": "/static/css/main.6a573c36.css.map",
-    "main.18522d03.js.map": "/static/js/main.18522d03.js.map",
-    "787.b1610551.chunk.js.map": "/static/js/787.b1610551.chunk.js.map"
+    "main.css": "/mod7-final/static/css/main.fad8da97.css",
+    "main.js": "/mod7-final/static/js/main.b3da2c70.js",
+    "static/js/787.be07712c.chunk.js": "/mod7-final/static/js/787.be07712c.chunk.js",
+    "static/media/percolate.svg?5w3um4": "/mod7-final/static/media/percolate.1527b5e7e2f78187d4a8.svg",
+    "static/media/percolate.eot": "/mod7-final/static/media/percolate.944f04e66433b0904029.eot",
+    "static/media/percolate.woff?5w3um4": "/mod7-final/static/media/percolate.19e89b87c4eaf9bc5a6a.woff",
+    "static/media/percolate.ttf?5w3um4": "/mod7-final/static/media/percolate.fae78e19b0826fafb9be.ttf",
+    "static/media/logo.svg": "/mod7-final/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mod7-final/index.html",
+    "main.fad8da97.css.map": "/mod7-final/static/css/main.fad8da97.css.map",
+    "main.b3da2c70.js.map": "/mod7-final/static/js/main.b3da2c70.js.map",
+    "787.be07712c.chunk.js.map": "/mod7-final/static/js/787.be07712c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6a573c36.css",
-    "static/js/main.18522d03.js"
+    "static/css/main.fad8da97.css",
+    "static/js/main.b3da2c70.js"
   ]
 }
